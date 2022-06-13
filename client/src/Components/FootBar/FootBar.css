@@ -1,0 +1,14 @@
+.footBar {
+    background-color: rgba(10, 9, 9, 0.95);
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;     
+    
+}
+.txt {
+    color: rgb(32, 165, 158);
+    margin-left: 25px;
+}

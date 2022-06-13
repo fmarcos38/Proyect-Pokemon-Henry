@@ -1,0 +1,100 @@
+.cont-gral-put{        
+    background-image: url('../Images/pokebolas.jpg');
+    height: 569px;    
+    background-color:rgba(201, 194, 194, 0.466);    
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 1280px ;   
+}
+.grupo1-modif{
+    float: left;
+    margin-top: 80px;
+    margin-left: 90px;
+    border: 2px solid #35bcdd;
+    width: 270px;
+    background-color: rgba(46, 46, 45, 0.753);
+}
+.grupo2-modif{
+    border: 2px solid #35bcdd;
+    margin-top: 80px;
+    margin-left: 80px;
+    width: 270px;
+    height: 300px;
+    float: left;
+    background-color: rgba(46, 46, 45, 0.753);
+}
+.grupo3-modif{
+    float: right;
+    margin-right: 210px;
+    margin-top: 80px;
+    border: 2px solid #35bcdd;
+    width: 270px;
+    height: 300px;
+    background-color: rgba(46, 46, 45, 0.753);
+}
+.lab-modif{
+    font-size: 20px;
+    margin-left: 10px;
+    color: aqua;
+    
+}
+.lab-pokes{
+    font-size: 20px;
+    margin-left: 10px;
+    color: aqua;
+}
+.itemInputM{
+    background-color: black;
+    color: #35bcdd;
+    font-size: 15px;  
+    border-radius: 5px;    
+    margin-right: 15px;
+    margin-left: 10px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    width: 150px;
+    border: 2px solid #35bcdd;
+    appearance: none;
+    display: flex;   
+}
+.errorInputM {
+    margin-right: 0px;
+    width: 250px;
+    border-color: red;
+    background-color: rgba(240, 230, 217, 0.781);   
+    border-radius: 5px;
+} 
+.span-error-M{
+    color: red;
+    margin-left: 10px;
+
+}
+.pokes{
+   margin-top: 30px;
+   margin-left: 30px;
+}
+.select-modif{
+    background-color:rgb(80, 169, 196);
+    color: black;
+    border-radius: 5px;
+    width: 150px;
+    margin-left: 10px;
+}
+.data{
+    color: aqua;
+    margin-top: 2px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.btn-modif{
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 150px;
+    font-size: 17px;
+    padding: 3px 10px;
+    color:#35bcdd;
+    background-color:black;
+    margin-left: 10px;
+    font-weight: bold;
+    margin-top: 60px;
+}

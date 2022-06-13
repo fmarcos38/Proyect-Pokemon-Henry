@@ -1,0 +1,20 @@
+.about{
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 1300px ;
+    background-image: linear-gradient(140deg, #0072d8 0, #0070e1 6.25%, #006de7 12.5%, 
+                                     #0069eb 18.75%, #0064ec 25%, #005eea 31.25%, #0056e5 37.5%,
+                                     #004dde 43.75%, #4d42d4 50%, #7234c8 56.25%, #8d20ba 62.5%,
+                                     #a100ab 68.75%, #b0009a 75%, #bc0089 81.25%, #c50077 87.5%,
+                                     #cb0065 93.75%, #cd0053 100%);
+    height: 569px;  
+    
+}
+
+.texto {
+    color: rgb(7, 8, 8);
+    margin-top: 490px;
+    margin-left: 10px;
+    font-style: oblique;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
